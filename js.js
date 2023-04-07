@@ -1,5 +1,14 @@
 let imgLampada = document.querySelector(".img-lampada")
 
-function desligar() {
+
+function ligar() {
     
+}
+
+function desligar() {
+
+}
+
+function quebrar() {
+
 }
