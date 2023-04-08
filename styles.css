@@ -13,7 +13,6 @@ main {
     border-radius: 2%;
     background-color: #fff;
     padding: 20px;
-    margin: auto;
 }
 
 img {
@@ -26,7 +25,7 @@ div input {
     background-color: #44444465;
     border: none;
     outline: none;
-    color: white;
+    color: #ffffff;
     border-radius: 5px;
     width: 150px;
     font-size: 20px;
