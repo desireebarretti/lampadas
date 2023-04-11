@@ -5,38 +5,35 @@
 }
 
 body {
-    background-color: #444;
-    padding: 50px;
-}
-/* 
-main {
-    border-radius: 2%;
     background-color: #fff;
-    padding: 20px;
-} */
+    padding: 50px;
+    /* background-color: #fff; */
+}
 
 img {
     position: relative;
-    left: 28%;
-}
+    left: 25%;
+} 
 
 div input {
     padding: 7px;
-    background-color: #44444465;
+    background-color: #202020a7;
     border: none;
     outline: none;
-    color: #ffffff;
+    color: #ecd17a;
     border-radius: 5px;
     width: 150px;
     font-size: 20px;
     position: relative;
     left: 7%;
-    border: 2px solid #ecd17af9;
+    margin-top: 1em;
+    border: 3px solid #ecd17af9;
 }
 
 div input:hover {
     background-color: #ecd17af9;
     cursor: pointer;
+    color: #202020;
     transform: scale(1.04);
     transition: 0.7s;
 }
