@@ -6,13 +6,20 @@
 
 body {
     background-color: #fff;
-    padding: 50px;
-    /* background-color: #fff; */
+}
+
+main {
+    margin: auto;
+    position: absolute;
+    transform: translate(-60%, -50%);
+    top: 50%;
+    left: 50%;
 }
 
 img {
     position: relative;
-    left: 25%;
+    transform: translate(-40%, -10%);
+    left: 50%;
 } 
 
 div input {
@@ -22,7 +29,7 @@ div input {
     outline: none;
     color: #ecd17a;
     border-radius: 5px;
-    width: 150px;
+    min-width: 110px;
     font-size: 20px;
     position: relative;
     left: 7%;
