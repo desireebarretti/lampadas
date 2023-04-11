@@ -1,7 +1,7 @@
 # Lampadas
 
 1. **NOME** 
-   - Lampada
+   - Lâmpada
 
 1. **DATA** 
    - 10 de abril de 2023
